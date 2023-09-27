@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/techIPguy">
                     <img src="https://avatars.githubusercontent.com/u/109718517?s=400&v=4" width="100px;" alt="techIPguy"/>
                     <br />
-                    <sub><b>techIPguy
+                    <sub><b>techIPguy - the open source contributer
         </a>
     </td>
         </tr>
