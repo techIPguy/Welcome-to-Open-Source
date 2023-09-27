@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/techIPguy">
+                    <img src="https://avatars.githubusercontent.com/u/109718517?s=400&v=4" width="100px;" alt="techIPguy"/>
+                    <br />
+                    <sub><b>techIPguy
+        </a>
+    </td>
         </tr>
     </tbody>
 </table>
